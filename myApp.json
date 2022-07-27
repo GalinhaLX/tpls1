@@ -4,5 +4,6 @@
 			"category": {}
 		}
 	],
-	"mestemplates": []
+	"mestemplates": [],
+	"foo": 1
 }
